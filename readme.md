@@ -1,4 +1,4 @@
-Data una lista della spesa,
+##Data una lista della spesa,
 stampare sulla pagina (anche brutalmente, basta che si vedano) gli elementi della lista individualmente con un ciclo while.
 
 
@@ -15,3 +15,6 @@ ripeto queste cose finche non ho finito gli elementi interni alla lista: (se la 
     prendo l'elemento nella posizione della variabile e lo aggiungo all interno del li
     lo stampo dentro all ul che ho collegato
     aumento la variabile di 1
+
+![GitHub last commit](https://img.shields.io/github/last-commit/CodeYouness/js-lista-spesa)
+
